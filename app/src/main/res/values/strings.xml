@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Bit Fit</string>
+    <string name="input_data_txt">You need To input data for today!</string>
+    <string name="how_much_sleep_text">How much did you sleep last night?</string>
+    <string name="how_did_you_feel_txt">How did you feel this Am?</string>
+    <string name="any_other_notes_txt">Any other notes?</string>
+    <string name="save_txt">Save</string>
+    <string name="your_notes_here">Your notes here</string>
+    <string name="average_hours_of_sleep_txt">Average Hours of sleep :</string>
+    <string name="average_feeling_txt">Average feeling :</string>
+    <string name="enter_valid_sleep_time">Please enter a valid sleep time</string>
+    <string name="enter_valid_feeling">Please enter a valid feeling.</string>
+    <string name="slept_hours_format">Slept %.1f hours</string>
+    <string name="feeling_format">Feeling %d/10</string>
+</resources>
